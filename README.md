@@ -25,7 +25,7 @@
             <a href="https://kevin-hoang-victordamitpros-projects.vercel.app/">🌐</a>
         </td>
         <td>
-            <a href="#">📃</a>
+            <a href="https://github.com/full-stuck-try-catch/full-stuck-try-catch/blob/master/Hoang_Dam_-_Senior_Software_Engineer.pdf">📃</a>
         </td>
     </tr>
 </table>
