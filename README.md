@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: Cloud Native, AWS, Go__
 - 💬 Ask me about Fullstack, Cloud Engineering (Azure), CI/CD, Docker, Kubernetes, Software Dev...__
 - 🤝 I’m looking for help with Exploring New Technologies.
-- ⚡ Fun fact: Game for code, code for food,food  for workout.
+- ⚡ Fun fact: code for food
 
 ### Contact me:
 
@@ -25,7 +25,7 @@
             <a href="https://kevin-hoang-victordamitpros-projects.vercel.app/">🌐</a>
         </td>
         <td>
-            <a href="https://github.com/full-stuck-try-catch/full-stuck-try-catch/blob/master/Hoang_Dam_-_Senior_Software_Engineer.pdf">📃</a>
+            <a href="https://github.com/full-stuck-try-catch/full-stuck-try-catch/blob/master/Hoang_Dam_-_Senior_Software_Engineer.pdf download">📃</a>
         </td>
     </tr>
 </table>
