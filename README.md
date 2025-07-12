@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: Cloud Native, AWS, Go__
 - 💬 Ask me about Fullstack, Cloud Engineering (Azure), CI/CD, Docker, Kubernetes, Software Dev...__
 - 🤝 I’m looking for help with Exploring New Technologies.
-- ⚡ Fun fact: code for food
+- ⚡ Fun fact: I believe ctrl+z is the real superhero of development.
 
 ### Contact me:
 
@@ -22,10 +22,10 @@
     </tr>
     <tr>
         <td>
-            <a href="https://kevin-hoang-victordamitpros-projects.vercel.app/" target="_blank">🌐</a>
+            <a href="https://kevin-hoang-victordamitpros-projects.vercel.app/" target="_blank" rel="noopener noreferrer">🌐</a>
         </td>
         <td>
-            <a href="https://github.com/full-stuck-try-catch/full-stuck-try-catch/blob/master/Hoang_Dam_-_Senior_Software_Engineer.pdf" download>📃</a>
+            <a href="https://github.com/full-stuck-try-catch/full-stuck-try-catch/blob/master/Hoang_Dam_-_Senior_Software_Engineer.pdf" target="_blank" rel="noopener noreferrer">📃</a>
         </td>
     </tr>
 </table>
