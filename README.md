@@ -11,7 +11,7 @@
 ### Contact me:
 
 <a href="mailto:damthuhoang38it@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/kevin-hoang-912816174/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/kevin-hoang-912816174/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 <br/>
 
 
@@ -22,10 +22,10 @@
     </tr>
     <tr>
         <td>
-            <a href="https://kevin-hoang-victordamitpros-projects.vercel.app/">🌐</a>
+            <a href="https://kevin-hoang-victordamitpros-projects.vercel.app/" target="_blank">🌐</a>
         </td>
         <td>
-            <a href="https://github.com/full-stuck-try-catch/full-stuck-try-catch/blob/master/Hoang_Dam_-_Senior_Software_Engineer.pdf download">📃</a>
+            <a href="https://github.com/full-stuck-try-catch/full-stuck-try-catch/blob/master/Hoang_Dam_-_Senior_Software_Engineer.pdf" download>📃</a>
         </td>
     </tr>
 </table>
