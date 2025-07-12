@@ -10,24 +10,19 @@
 
 ### Contact me:
 
-<a href="#"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a>
+<a href="mailto:damthuhoang38it@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/kevin-hoang-912816174/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 <br/>
 
 
 <table>
     <tr>
-        <th>My Blog</th>
-        <th>My Website</th>
+        <th>My Porfolio</th>
         <th>My CV</th>
     </tr>
     <tr>
         <td>
-            <a href="#"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
-        </td>
-        <td>
-            <a href="#">🌐</a>
+            <a href="https://kevin-hoang-victordamitpros-projects.vercel.app/">🌐</a>
         </td>
         <td>
             <a href="#">📃</a>
